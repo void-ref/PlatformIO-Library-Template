@@ -1,0 +1,40 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "____PLACEHOLDER____",
+    "version": "0.1.0",
+    "description": "",
+    "keywords": [],
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "____PLACEHOLDER____"
+    },
+    "authors": [
+        {
+            "name": "Mitchell Matsumori-Kelly",
+            "maintainer": true,
+            "url": "https://github.com/void-ref"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": [
+        "Arduino",
+        "cmsis",
+        "espidf",
+        "freertos",
+        "mbed",
+        "stm32cube"
+    ],
+    "platforms": [
+        "atmelavr",
+        "espressif32",
+        "ststm32"
+    ],
+    "headers": [],
+    "examples": [],
+    "dependencies": [],
+    "build": {
+        "includeDir": "./include",
+        "srcDir": "./src"
+    }
+}
