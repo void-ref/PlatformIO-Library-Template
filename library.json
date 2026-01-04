@@ -1,19 +1,19 @@
 {
     "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
-    "name": "____PLACEHOLDER____",
+    "name": "__PLACEHOLDER__",
     "version": "0.1.0",
     "description": "",
     "keywords": [],
     "homepage": "",
     "repository": {
         "type": "git",
-        "url": "____PLACEHOLDER____"
+        "url": "__PLACEHOLDER__"
     },
     "authors": [
         {
-            "name": "Mitchell Matsumori-Kelly",
+            "name": "__PLACEHOLDER__",
             "maintainer": true,
-            "url": "https://github.com/void-ref"
+            "url": "__PLACEHOLDER__"
         }
     ],
     "license": "MIT",
